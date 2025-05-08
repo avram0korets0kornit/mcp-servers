@@ -22,8 +22,8 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/modelcontextprotocol/servers"
-"Bug Tracker" = "https://github.com/modelcontextprotocol/servers/issues"
+"Homepage" = "https://github.com/avram0korets0kornit/mcp-servers"
+"Bug Tracker" = "https://github.com/avram0korets0kornit/mcp-servers/issues"
 
 [project.scripts]
 mcp-play-windows-sound = "mcp_play_windows_sound:main"
