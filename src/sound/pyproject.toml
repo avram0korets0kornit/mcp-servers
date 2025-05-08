@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "mcp-play-windows-sound"
-version = "0.1.2"
+version = "0.4.6"
 authors = [
   { name = "MCP Contributors" },
 ]
